@@ -11,7 +11,7 @@ The dataset used for this project is the **Brain_Tumor_Detection_MRI** by ABHRAN
 - **no:** Images without brain tumors
 - **pred:** Images for prediction
 
-You can download the dataset from [Kaggle](https://www.kaggle.com/abhrantapanigrahi/brain-tumor-detection-mri).
+You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/abhranta/brain-tumor-detection-mri).
 
 ## Key Features
 
