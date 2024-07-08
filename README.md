@@ -26,7 +26,7 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/abhra
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/ubiquitousparth/Brain-Tumor-Detection-using-TensorFlow.git
-   cd brain-tumor-detection
+   cd brain-tumor-detection-using-Tensorflow
    
 2. **Install the required dependencies:
     Install all dependencies given in the requirements.txt file.
