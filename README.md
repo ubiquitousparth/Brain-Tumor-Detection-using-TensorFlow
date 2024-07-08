@@ -25,7 +25,7 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/abhra
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/brain-tumor-detection.git
+   git clone https://github.com/Ubiquitousparth/brain-tumor-detection.git
    cd brain-tumor-detection
    
 2. **Install the required dependencies:
