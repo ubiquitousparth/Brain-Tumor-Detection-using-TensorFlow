@@ -27,7 +27,8 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/abhrantapanigr
    ```sh
    git clone https://github.com/yourusername/brain-tumor-detection.git
    cd brain-tumor-detection
+   
 2. **Install the required dependencies:
     Install all dependencies given in the requirements.txt file.
-3. Run the Jupyter Notebook:
-4. Open Brain_tumor_model.ipynb in Jupyter Notebook or JupyterLab to execute the code cells and follow along with the steps.
+   
+4. Run the Jupyter Notebook: Open Brain_tumor_model.ipynb in Jupyter Notebook or JupyterLab to execute the code cells and follow along with the steps.
