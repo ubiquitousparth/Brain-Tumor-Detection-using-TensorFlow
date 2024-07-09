@@ -28,7 +28,7 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/abhra
    git clone https://github.com/ubiquitousparth/Brain-Tumor-Detection-using-TensorFlow.git
    cd brain-tumor-detection-using-Tensorflow
    
-2. **Install the required dependencies:
+2. **Install the required dependencies**:
     Install all dependencies given in the requirements.txt file.
    
-4. Run the Jupyter Notebook: Open Brain_tumor_model.ipynb in Jupyter Notebook or JupyterLab to execute the code cells and follow along with the steps.
+4. **Run the Jupyter Notebook**: Open Brain_tumor_model.ipynb in Jupyter Notebook or JupyterLab to execute the code cells and follow along with the steps.
