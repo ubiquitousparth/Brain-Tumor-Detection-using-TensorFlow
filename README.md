@@ -1,4 +1,4 @@
-# Brain Tumor Detection using TensorFlow
+# Brain Tumor Detection From MRI scans
 
 ## Description
 
